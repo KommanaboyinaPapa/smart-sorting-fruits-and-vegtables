@@ -67,7 +67,7 @@ You can run this project on your local system by following these simple steps:
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/SmartSortingApp.git
+git clone https://github.com/kommanaboyinapapa/SmartSortingApp.git
 cd SmartSortingApp
 
 2️⃣ Create a Virtual Environment (Recommended)
